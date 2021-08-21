@@ -9,5 +9,5 @@ This is jyotiranjan padhi.i am a data scientist. The main purpose of EDA is to h
 5. created Categorical variables and Continuous variables by filtering the data.
 6. Performing one-hot encoding.
 ![data](https://user-images.githubusercontent.com/84494071/130312303-bf196201-bdbd-4313-a0b8-fedcb54e3809.gif)
-#Tools
+# Tools
 ![header](https://user-images.githubusercontent.com/84494071/130312352-cbd259bb-ac39-4121-a89f-87d3077abe84.jpg)
